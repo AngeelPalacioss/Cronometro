@@ -100,7 +100,7 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Location = new Point(331, 138);
+            label2.Location = new Point(336, 138);
             label2.Name = "label2";
             label2.Size = new Size(12, 15);
             label2.TabIndex = 5;
